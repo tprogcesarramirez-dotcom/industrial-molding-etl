@@ -1,0 +1,10 @@
+{
+  "machine_id": "M102",
+  "downtime_minutes": 45,
+  "approved_parts": 1200,
+  "rejected_parts": 15,
+  "reasons": [
+    "defectos estéticos"
+  ],
+  "shift_leader": "Juan Pérez"
+}
